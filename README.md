@@ -1,6 +1,3 @@
-hiii
-
-
 # Train Ticket Reservation System 
 <!-- - Youtube video for local setup of similar project: https://www.youtube.com/watch?v=mLFPodZO8Iw -->
 - Youtube video for Step by Step Guide on Local Setup: https://www.youtube.com/watch?v=Wd2GlEJJJlw
