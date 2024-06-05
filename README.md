@@ -20,6 +20,7 @@ This project is about the Train-Ticket-Reservation-System which is used to view 
 - Payment Gateway
 - Ticket Booking History
 
+
 <span style="color:blue">**The Admin have the following access to this website:-**</span>
 - Login
 - Add Trains
